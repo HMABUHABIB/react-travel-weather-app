@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.1b4ddfb2.chunk.js",
-    "main.js.map": "/static/js/main.1b4ddfb2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.70964cb4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.70964cb4.js.map",
-    "static/js/2.af7a14ef.chunk.js": "/static/js/2.af7a14ef.chunk.js",
-    "static/js/2.af7a14ef.chunk.js.map": "/static/js/2.af7a14ef.chunk.js.map",
-    "static/js/3.dd56c64d.chunk.js": "/static/js/3.dd56c64d.chunk.js",
-    "static/js/3.dd56c64d.chunk.js.map": "/static/js/3.dd56c64d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.af7a14ef.chunk.js.LICENSE.txt": "/static/js/2.af7a14ef.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-travel-weather-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-travel-weather-app/static/js/main.1b4ddfb2.chunk.js",
+    "main.js.map": "/react-travel-weather-app/static/js/main.1b4ddfb2.chunk.js.map",
+    "runtime-main.js": "/react-travel-weather-app/static/js/runtime-main.23757bd6.js",
+    "runtime-main.js.map": "/react-travel-weather-app/static/js/runtime-main.23757bd6.js.map",
+    "static/js/2.af7a14ef.chunk.js": "/react-travel-weather-app/static/js/2.af7a14ef.chunk.js",
+    "static/js/2.af7a14ef.chunk.js.map": "/react-travel-weather-app/static/js/2.af7a14ef.chunk.js.map",
+    "static/js/3.dd56c64d.chunk.js": "/react-travel-weather-app/static/js/3.dd56c64d.chunk.js",
+    "static/js/3.dd56c64d.chunk.js.map": "/react-travel-weather-app/static/js/3.dd56c64d.chunk.js.map",
+    "index.html": "/react-travel-weather-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-travel-weather-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.af7a14ef.chunk.js.LICENSE.txt": "/react-travel-weather-app/static/js/2.af7a14ef.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-travel-weather-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70964cb4.js",
+    "static/js/runtime-main.23757bd6.js",
     "static/js/2.af7a14ef.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.1b4ddfb2.chunk.js"
